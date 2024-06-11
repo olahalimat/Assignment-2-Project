@@ -1,0 +1,50 @@
+.mainpage{
+    background-color:grey;
+    margin-left: auto;
+    margin-right: auto;
+}
+.navigation-bar{
+    background:rgb(248, 247, 247);
+    height: 100%;
+    width: 100%;
+}
+.box1{
+    background:pink;
+    margin-left: auto;
+    margin-right: auto; 
+    width:300px;
+    border: 2px solid black;
+    display:block;
+}
+.box2{
+    background:pink;
+    margin-left: auto;
+    margin-right: auto;
+    width:300px;
+    border: 2px solid black;
+    display:block;
+}
+.box3{
+    background:pink;
+    margin-left: auto;
+    margin-right: auto; 
+    width:300px;
+    border: 2px solid black;
+    display:block;
+}
+.box4{
+    background:pink;
+    margin-left: auto;
+    margin-right: auto; 
+    width:300px;
+    border: 2px solid black;
+    display:block;
+}
+.header{
+    text-align:center;
+    background-color:rgb(179, 189, 152);
+    color:white;
+    font-family: serif;
+    border: 3px solid paleturquoise;
+    padding:2px;
+}
